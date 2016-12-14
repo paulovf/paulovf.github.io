@@ -1,4 +1,4 @@
-# site-paulovitor
+# http://paulovf.github.io
 Repositório com o site pessoal de Paulo Vitor
 
 Desenvolvido por: Paulo Vitor Francisco
